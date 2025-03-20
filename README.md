@@ -32,7 +32,7 @@ Each case includes:
 - **URL:** `http://mogagrocol.ru/wp-content/plugins/akismet/fv/index.php`
 - **Findings:** The domain was confirmed to be a **phishing site**.
 
-📄 **[Read Full Report](cases/phishing_url_case2.md)**  
+📄 **[Read Full Report](https://1drv.ms/w/c/fb091a92e6eb7d25/EdwIfy_CanxFhg9gwjzSKpUB1YWGH8zM05uYEje6MUOWIA)**  
 
 ---
 
