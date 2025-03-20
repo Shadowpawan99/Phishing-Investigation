@@ -36,6 +36,19 @@ Each case includes:
 
 ---
 
+### 📌 Case 3: Phishing Email - Suspicious Task Scheduler  
+- **Event ID:** `82`  
+- **Type:** Phishing Email - Suspicious Task Scheduler  
+- **Source:** `aaronluo@cmail.carleton.ca`  
+- **Target:** `mark@letsdefend.io`  
+- **SMTP IP:** `189.162.189.159`  
+- **Subject:** `"COVID19 Vaccine"`  
+- **Findings:** The email contained potential **malicious scripting** linked to **Task Scheduler abuse**, commonly used for persistence in attacks.  
+
+📄 **[Read Full Report](cases/phishing_case4.md)**  
+
+---
+
 ## 🏆 About Me  
 Cybersecurity Analyst passionate about **threat detection, incident response, and digital forensics**.  
 🔗 **[LinkedIn Profile](https://linkedin.com/in/yourname)**  
