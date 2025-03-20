@@ -23,7 +23,7 @@ Each case includes:
 - **Sender:** `accounting@cmail.carleton.ca`
 - **Findings:** The email contained a **malicious attachment**.
 
-📄 **[Read Full Report](cases/phishing_email_case1.md)**  
+📄 **[Read Full Report](https://1drv.ms/w/c/fb091a92e6eb7d25/EQsmMd2twY9FuEMf1G5NjncBGoRuHg6_R6U_KcBfsA5FRA?e=J1mKPd)**  
 
 ---
 
