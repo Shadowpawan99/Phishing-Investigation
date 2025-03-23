@@ -45,7 +45,7 @@ Each case includes:
 - **Subject:** `"COVID19 Vaccine"`  
 - **Findings:** The email contained potential **malicious scripting** linked to **Task Scheduler abuse**, commonly used for persistence in attacks.  
 
-📄 **[Read Full Report](cases/phishing_case4.md)**  
+📄 **[Read Full Report](https://1drv.ms/w/c/fb091a92e6eb7d25/Ec-nmVNo96REgcVtatlGjzkBUA52idZUwxI8tVAFQNlnkg)**  
 
 ---
 
