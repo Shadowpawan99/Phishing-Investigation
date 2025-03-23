@@ -51,7 +51,7 @@ Each case includes:
 
 ## 🏆 About Me  
 Cybersecurity Analyst passionate about **threat detection, incident response, and digital forensics**.  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/yourname)**  
+🔗 **[LinkedIn Profile](WWW: https://www.linkedin.com/in/pawan pawar 72786b205/ )**  
 
 ---
 
@@ -62,4 +62,4 @@ Cybersecurity Analyst passionate about **threat detection, incident response, an
 🔹 **Splunk/Kibana** – Log Analysis  
 
 ---
-📌 **Want to connect?** Reach me on **[LinkedIn](https://linkedin.com/in/yourname)**.  
+📌 **Want to connect?** Reach me on **[LinkedIn](WWW: https://www.linkedin.com/in/pawan pawar 72786b205/ )**.  
