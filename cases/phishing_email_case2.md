@@ -1,19 +1,35 @@
-# 🚨 **Phishing Investigation Report**  
+🚨 Case Study: Phishing URL Detected
+📅 Date: March 22, 2021
+🎯 Target: ellie@letsdefend.io
+🔗 Suspicious URL: http://mogagrocol.ru/wp-content/plugins/akismet/fv/index.php?email=ellie@letsdefend.io
+📌 Device Action: Allowed
 
-📅 **Date:** January 31, 2021  
-🎯 **Target:** `richard@letsdefend.io`  
-📩 **Email Subject:** `Invoice`  
-📎 **Attachment:** `c9ad9506bcccfaa987ff9fc11b91698d`  
-🛑 **Device Action:** Allowed  
+🔍 Investigation Steps
+1️⃣ Email Header & Network Analysis
+Source IP: 172.16.17.49 (Ellie's Computer - EmilyComp)
 
----
+Destination IP: 91.189.114.8 (Phishing Server - mogagrocol.ru)
 
-## **1️⃣ Email Header Analysis**  
-The phishing email originated from `accounting@cmail.carleton.ca`, but the real SMTP source was an unknown server (`49.234.43.39`), which is a **red flag** for email spoofing.  
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) Chrome/79.0.3945.88
 
+2️⃣ Phishing URL Analysis
+Domain Reputation: 🚨 Blacklisted (Confirmed Phishing Site)
 
-```plaintext
-Return-Path: <accounting@cmail.carleton.ca>
-Received: from unknown (HELO 49.234.43.39)
-X-Mailer: Microsoft Outlook 16.0                                                                                                            
+VirusTotal Result: Check URL
+
+URLScan.io Analysis: Redirects to fake login page (Credential Harvesting)
+
+3️⃣ Indicators of Compromise (IoCs)
+Indicator	Description
+mogagrocol.ru	Phishing Domain
+91.189.114.8	Malicious Server Hosting Phishing Page
+172.16.17.49	Infected User’s System (EmilyComp)
+🛡️ Mitigation Steps
+✅ Blacklist the domain mogagrocol.ru at DNS level
+✅ Block 91.189.114.8 on firewall and security tools
+✅ Investigate if Ellie entered credentials on the phishing site
+✅ Enforce Multi-Factor Authentication (MFA) on her account
+✅ Educate employees about phishing awareness
+
+📌 Back to Main Page: 🔙 Home
 
